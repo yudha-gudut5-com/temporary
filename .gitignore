@@ -1,2 +1,5 @@
 .theia/
 launch.json
+
+# macOS Files
+.DS_Store
